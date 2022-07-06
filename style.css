@@ -142,3 +142,31 @@ p{
 #yellow{
     background: #fff4d6;
 }
+
+
+
+.discription{
+    margin: 20px 0;
+}
+.disc-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+.disc-item .disc-photo{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.disc-item .disc-photo img{
+    width: 80%
+
+}
+.disc-item .content{
+    width: 50%;
+    padding: 20px;
+}
+.disc-item .content p{
+    margin: 20px 0;
+}
