@@ -200,3 +200,31 @@ p{
 #update-input-btn{
     border-radius: 0px 5px 5px 0px;
 }
+
+
+
+.contact{
+    padding: 20px 0;
+    background: #edf5f6;
+}
+.contact-title{
+    text-align: center;
+    margin: 20px;
+}
+.contact-form{
+    padding: 0 50px;
+}
+.input-item{
+    /* border: 1px solid; */
+    margin: 15px 0;
+}
+.input-item input, textarea{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    font-size: 18px;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: 5px 4px 40px #8f8f8f5d;
+}
