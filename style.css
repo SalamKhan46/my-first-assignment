@@ -228,3 +228,15 @@ p{
     border-radius: 5px;
     box-shadow: 5px 4px 40px #8f8f8f5d;
 }
+footer{
+    width: 100%;
+    background: #000;
+}
+footer h2{
+    font-family: 'Lobster', cursive;
+    color: tomato;
+}
+.fcontent{
+    text-align: center;
+    padding: 30px 0;
+}
